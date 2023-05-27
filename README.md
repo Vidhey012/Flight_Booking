@@ -1,6 +1,6 @@
 # Flighty :airplane:
 
-#### DBMS Course Mini-Project
+#### python Flask + Mysql project
 
 Flighty is a Flask-based web-app which allows users to create profiles, book and cancel tickets and print transaction info.
 
